@@ -1,0 +1,417 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VerilogCPUs
+vadder
+Z0 !s110 1756365538
+!i10b 1
+!s100 HARc]ImKnf;JGdXZ^o^:F3
+IKmIj=<4C3OzZZZFREmkPQ2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Project_332/mipsPro/MIPSVerilogWOJAL
+Z3 w1756134736
+Z4 8adder.v
+Z5 Fadder.v
+L0 6
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1756365538.000000
+Z8 !s107 sl2.v|signext.v|regfile32.v|mux4.v|mux2.v|flopr_param.v|alu32.v|adder.v|D:/Project_332/mipsPro/MIPSVerilogWOJAL/datapath.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/datapath.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+valu32
+R0
+!i10b 1
+!s100 TJELNDiE?9dfNH0Tg@Sek2
+I`Lo81FkiTd1kbOkAR5]ic1
+R1
+R2
+w1756202350
+8alu32.v
+Falu32.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vControlunit
+!s110 1756268988
+!i10b 1
+!s100 iVRXIlKAA`836bekj2M3h2
+IYHIC=3d7@D`ZEM<3iV7lK2
+R1
+R2
+w1756268982
+8D:\Project_332\mipsPro\MIPSVerilogWOJAL\control.v
+FD:\Project_332\mipsPro\MIPSVerilogWOJAL\control.v
+L0 7
+R6
+r1
+!s85 0
+31
+!s108 1756268988.000000
+!s107 D:\Project_332\mipsPro\MIPSVerilogWOJAL\control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Project_332\mipsPro\MIPSVerilogWOJAL\control.v|
+!i113 1
+R10
+R11
+n@controlunit
+vControlUnit
+!s110 1756365537
+!i10b 1
+!s100 Ii`]hk0d2d7]z0C@AU1Nh3
+IKb65>Q=>`nLUeVB]EZU571
+R1
+R2
+w1756285542
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/control.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/control.v
+L0 4
+R6
+r1
+!s85 0
+31
+!s108 1756365537.000000
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/control.v|
+!i113 1
+R10
+R11
+n@control@unit
+vDatapath
+R0
+!i10b 1
+!s100 3hmg82oSKHblJTJ82fR4C1
+IjJJ39>DJHYPbkl@?O`:8j2
+R1
+R2
+w1756292042
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/datapath.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/datapath.v
+L0 13
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@datapath
+vdecoder4
+R0
+!i10b 1
+!s100 bNeF91ID[G2fgYClKY1l32
+I::JURC>l]QhkK0GRL5Z?z0
+R1
+R2
+w1756134588
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/decoder4.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/decoder4.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/decoder4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/decoder4.v|
+!i113 1
+R10
+R11
+vFA
+R0
+!i10b 1
+!s100 ?eW]BK9f]@M=:>;Zf>kce0
+IESQ8k95@P8m2]f_]FL5O80
+R1
+R2
+R3
+R4
+R5
+L0 23
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@f@a
+vflopr_param
+R0
+!i10b 1
+!s100 hh96k`N26<?o>albiQGMO2
+I5j?zf`Z:P7Ud]Ic<Qde?20
+R1
+R2
+w1756292825
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/flopr_param.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/flopr_param.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/flopr_param.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/flopr_param.v|
+!i113 1
+R10
+R11
+vMIPS_SCP
+R0
+!i10b 1
+!s100 4aEH>mnAaF;4AO^iJAAcR3
+I]@c^blHE<QF3P_OAc;`^61
+R1
+R2
+w1756292616
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/MIPS_SCP.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/MIPS_SCP.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/MIPS_SCP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/MIPS_SCP.v|
+!i113 1
+R10
+R11
+n@m@i@p@s_@s@c@p
+vMIPS_SCP_tb
+R0
+!i10b 1
+!s100 e?SiHnGXYk]hNKO=e3E1f3
+ImG75M?8=ifY`Lj<dJUX>@1
+R1
+R2
+w1756326010
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/MIPS_SCP_tb.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/MIPS_SCP_tb.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/MIPS_SCP_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/MIPS_SCP_tb.v|
+!i113 1
+R10
+R11
+n@m@i@p@s_@s@c@p_tb
+vMIPS_SCP_testbench
+!s110 1756146532
+!i10b 1
+!s100 ChkAflHz]3GUieV<@@JAc0
+ImhI3jaaCO9MS5neFL;oBP2
+R1
+R2
+w1756146520
+8D:\Project_332\mipsPro\MIPSVerilogWOJAL\MIPS_SCP_tb.v
+FD:\Project_332\mipsPro\MIPSVerilogWOJAL\MIPS_SCP_tb.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1756146532.000000
+!s107 D:\Project_332\mipsPro\MIPSVerilogWOJAL\MIPS_SCP_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Project_332\mipsPro\MIPSVerilogWOJAL\MIPS_SCP_tb.v|
+!i113 1
+R10
+R11
+n@m@i@p@s_@s@c@p_testbench
+vmux2
+R0
+!i10b 1
+!s100 ;7K:j1X=Fe>cP:fILlc4?3
+I==913XWKMT8DhEjN;jKfh2
+R1
+R2
+w1704776184
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/mux2.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/mux2.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/mux2.v|
+!i113 1
+R10
+R11
+vmux3
+!s110 1756284990
+!i10b 1
+!s100 5C9871kFJeDiM:I4iloJ@0
+IT9]0Mh2L=LMlB@gdA@lbB2
+R1
+R2
+w1756284889
+8mux3.v
+Fmux3.v
+L0 4
+R6
+r1
+!s85 0
+31
+!s108 1756284990.000000
+!s107 sl2.v|signext.v|regfile32.v|mux4.v|mux3.v|mux2.v|flopr_param.v|alu32.v|adder.v|D:/Project_332/mipsPro/MIPSVerilogWOJAL/datapath.v|
+R9
+!i113 1
+R10
+R11
+vmux4
+Z12 !s110 1756365539
+!i10b 1
+!s100 Fo6?c[gi_n9Y>h:ml=V4R2
+I`mJWaKENZ5MZ;bD<]U1j03
+R1
+R2
+w1704775545
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/mux4.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/mux4.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/mux4.v|
+!i113 1
+R10
+R11
+vram
+R12
+!i10b 1
+!s100 NkHhn^o;b6VcoCbHARJSK1
+IZoaEBT2_MFK1QNk<058jT3
+R1
+R2
+w1756140397
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/ram.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/ram.v
+L0 3
+R6
+r1
+!s85 0
+31
+Z13 !s108 1756365539.000000
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/ram.v|
+!i113 1
+R10
+R11
+vregisterfile32
+R12
+!i10b 1
+!s100 7lF>]AK:a7LW0Mnk><08g1
+IOLga@NCBX^TE]k6RLCFLi2
+R1
+R2
+w1756290572
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/regfile32.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/regfile32.v
+L0 6
+R6
+r1
+!s85 0
+31
+R13
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/regfile32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/regfile32.v|
+!i113 1
+R10
+R11
+vrom
+R12
+!i10b 1
+!s100 jfXJGa9BHoenBPjl8coN42
+IJIEeLYeUEdod7;mKgd8YP0
+R1
+R2
+w1756137628
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/rom.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/rom.v
+L0 3
+R6
+r1
+!s85 0
+31
+R13
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/rom.v|
+!i113 1
+R10
+R11
+vsignext
+R12
+!i10b 1
+!s100 :5S[_93jC6V6XS:]:1We;1
+IMB@7<38nBd?cVkPX6E7a12
+R1
+R2
+w1704775668
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/signext.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/signext.v
+L0 6
+R6
+r1
+!s85 0
+31
+R13
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/signext.v|
+!i113 1
+R10
+R11
+vslt2
+R12
+!i10b 1
+!s100 IzVbP]4L>RXZhMRjF0^@Q2
+IINN20IlH^DFS`1=4c?QK30
+R1
+R2
+w1756118870
+8D:/Project_332/mipsPro/MIPSVerilogWOJAL/sl2.v
+FD:/Project_332/mipsPro/MIPSVerilogWOJAL/sl2.v
+L0 6
+R6
+r1
+!s85 0
+31
+R13
+!s107 D:/Project_332/mipsPro/MIPSVerilogWOJAL/sl2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project_332/mipsPro/MIPSVerilogWOJAL/sl2.v|
+!i113 1
+R10
+R11
