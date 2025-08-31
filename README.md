@@ -24,7 +24,7 @@ CSE332 Project : A Verilog-based 32-bit single-cycle MIPS CPU with custom assemb
 
 ---
 
-## 🛠️ Assembler
+## Assembler
 
 - **Language**: C++
 - **Function**: Translates `.s` MIPS assembly files into machine code
